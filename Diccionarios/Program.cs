@@ -40,6 +40,14 @@ namespace Diccionarios
             Console.WriteLine("--------");
             Console.WriteLine("");
 
+            Console.WriteLine("Forma 3-->Agregando elemento de forma segura");
+            if (!users.ContainsKey("Lucia"))
+            {
+                users.Add("Lucia", 109);
+            }
+            Console.WriteLine("--------");
+            Console.WriteLine("");
+
             Console.WriteLine("Ordenamiento por valor");
             foreach (KeyValuePair<string, int> user in users.OrderBy(user => user.Value))
             {
