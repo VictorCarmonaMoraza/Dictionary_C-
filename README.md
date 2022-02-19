@@ -1,1 +1,1 @@
-# 1 - Creacion de appa para trabajar con diccionarios
+# 1 - Creacion de app para trabajar con diccionarios
