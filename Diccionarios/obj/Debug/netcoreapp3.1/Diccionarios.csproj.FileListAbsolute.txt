@@ -1,0 +1,11 @@
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.exe
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.deps.json
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.runtimeconfig.json
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.runtimeconfig.dev.json
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.dll
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\bin\Debug\netcoreapp3.1\Diccionarios.pdb
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.csprojAssemblyReference.cache
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.AssemblyInfoInputs.cache
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.AssemblyInfo.cs
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.dll
+C:\Users\vcarmonm\Desktop\Proyectos pruebas 2022\Diccionarios\Diccionarios\obj\Debug\netcoreapp3.1\Diccionarios.pdb

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vcarmonm\\Desktop\\Proyectos pruebas 2022\\Diccionarios\\Diccionarios\\Diccionarios.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vcarmonm\\Desktop\\Proyectos pruebas 2022\\Diccionarios\\Diccionarios\\Diccionarios.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vcarmonm\\Desktop\\Proyectos pruebas 2022\\Diccionarios\\Diccionarios\\Diccionarios.csproj",
+        "projectName": "Diccionarios",
+        "projectPath": "C:\\Users\\vcarmonm\\Desktop\\Proyectos pruebas 2022\\Diccionarios\\Diccionarios\\Diccionarios.csproj",
+        "packagesPath": "C:\\Users\\vcarmonm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vcarmonm\\Desktop\\Proyectos pruebas 2022\\Diccionarios\\Diccionarios\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vcarmonm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\10.50.1.225\\resources_stark": {},
+          "\\\\10.50.1.225\\resources_stark\\Repositories\\Repositories_Serverless": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.112\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
